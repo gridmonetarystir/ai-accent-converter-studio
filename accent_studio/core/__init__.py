@@ -1,0 +1,1 @@
+"""Core conversion engine and DSP primitives."""
