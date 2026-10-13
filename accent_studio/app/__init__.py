@@ -1,0 +1,1 @@
+"""Application layer: bootstrap, lifecycle, window wiring."""
