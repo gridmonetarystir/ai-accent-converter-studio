@@ -1,0 +1,1 @@
+"""Feature handlers bridging UI actions to engine calls."""
